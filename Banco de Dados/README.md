@@ -14,7 +14,16 @@
     - [Quanto à cardinalidade máxima](https://youtu.be/4KA3lzIdDpE)
     - [Outras classificações](https://youtu.be/vuBuqDG09NY)
 - Modelo Relacional
+  - [Introdução](https://youtu.be/CenR0CyDf0w)
+  - [Mapeamento entre modelos](https://youtu.be/UhRrWbsX5jc)
 - SQL
   - DDL
+    - [Criação de tabelas em SQL](https://youtu.be/jyuZxekynzA)
+    - [Criação de tabelas no PostgreSQL](https://youtu.be/u9UaMBoZ3g0)
+    - [Criação de tabelas com chave estrangeira](https://youtu.be/HvhtGcExnz8)
   - DML
+    - [Introdução](https://youtu.be/ut5I8f8Of7w)
+    - [Operadores de comparação](https://youtu.be/L3gno2raa1E)
+    - [Operadores lógicos](https://youtu.be/YpR8hpqZM2M)
   - DQL
+    - [Introdução](https://youtu.be/zyaGDaPNI14)
